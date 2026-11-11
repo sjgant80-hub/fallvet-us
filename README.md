@@ -10,7 +10,7 @@ Live: <https://sjgant80-hub.github.io/fallvet-us/>
 
 ## Licence
 
-MIT · Simon Gant · ◊·κ=1.
+MIT · Simon Gant.
 
 
 ## What this tool provides
